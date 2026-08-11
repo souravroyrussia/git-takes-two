@@ -1,0 +1,3 @@
+[submodule "helloapp-black"]
+	path = helloapp-black
+	url = ./helloapp-black
